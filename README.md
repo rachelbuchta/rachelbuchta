@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rachelbuchta5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rachelbuchta5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachelbuchta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rachelbuchta/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rachelbuchta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/rachelbuchta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachelbuchta&show_icons=true&locale=en" alt="rachelbuchta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachelbuchta&" alt="rachelbuchta" /></p>
+
