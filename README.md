@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachel Buchta</h1>
-<h3 align="center">An enthusiastic frontend developer located in Denver, CO</h3>
+<h3 align="center">An enthusiastic frontend software engineer located in Denver, CO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachelbuchta&label=Profile%20views&color=0e75b6&style=flat" alt="rachelbuchta" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rachelbuchta5" target="blank"><img src="https://img.shields.io/twitter/follow/rachelbuchta5?logo=twitter&style=for-the-badge" alt="rachelbuchta5" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **react, javascript, css**
+- 💬 Ask me about **React, Javascript, Css**
 
-- 📫 How to reach me **rachelbuchta@yahoo.com**
+- 📫 How to reach me **rachelbuchta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
