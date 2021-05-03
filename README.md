@@ -9,13 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/rachelbuchta5" target="blank"><img src="https://img.shields.io/twitter/follow/rachelbuchta5?logo=twitter&style=for-the-badge" alt="rachelbuchta5" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I'm currently working on [Backcountry Buddy](https://github.com/Back-Country-Buddy/backcountry-buddy-UI) ⛷ **A planning app for backcountry skiers** 🎿
 
-- 💬 Ask me about **React, Javascript, Css**
+- 🌱 I’m currently learning **TypeScript, GraphQL**
+
+- 💬 Ask me about **React, Javascript, CSS**
 
 - 📫 How to reach me **rachelbuchta@gmail.com**
 
-<p align="center">🎶 Jammin' to 🎶</p>
+- 💻 My highlighted projects are located [Here](https://terminal.turing.edu/alumni/752-rachel-buchta)
+
+- 📄 Know about my experiences [Resume](https://www.icloud.com/iclouddrive/0qKDyqlrMg-vTzwVqxn4q94JQ#Rachel-Buchta)	
+
+<h3 align="center">🎶 Jammin' to 🎶</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=1230426726&cover_image=true&theme=novatorem"/> </p>
 
 <h3 align="left">Connect with me:</h3>
