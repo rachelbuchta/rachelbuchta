@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on [Backcountry Buddy](https://github.com/Back-Country-Buddy/backcountry-buddy-UI) ⛷ **A planning app for backcountry skiers** 🎿
 
-- 🌱 I’m currently learning **TypeScript, GraphQL**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **React, Javascript, CSS**
 
