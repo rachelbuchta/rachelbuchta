@@ -16,8 +16,6 @@
 
 - 💻 My highlighted projects are located [Here](https://terminal.turing.edu/alumni/752-rachel-buchta)
 
-- 📄 Know about my experiences [Resume](https://www.icloud.com/iclouddrive/0qKDyqlrMg-vTzwVqxn4q94JQ#Rachel-Buchta)	
-
 <h3 align="center">🎶 Jammin' to 🎶</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=1230426726&cover_image=true&theme=novatorem"/></p>
 
