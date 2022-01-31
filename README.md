@@ -2,9 +2,6 @@
 <h3 align="center">An enthusiastic frontend software engineer located in Denver, CO</h3>
 
 <h3 align="center">I'm happy to see you here.</h3> <p align="center"><img src="https://komarev.com/ghpvc/?username=rachelbuchta&label=Profile%20views&color=0e75b6&style=dracula" alt="rachelbuchta" /></p>
-<p align="center"><img src="https://profile-counter.glitch.me/rachelbuchta/count.svg" /></p>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rachelbuchta&theme=dracula&row=1" /></p>
 
 - 🔭 I'm currently working on [Backcountry Buddy](https://github.com/Back-Country-Buddy/backcountry-buddy-UI) ⛷ **A planning app for backcountry skiers** 🎿
 
